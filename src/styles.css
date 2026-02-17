@@ -1,0 +1,13 @@
+:root {
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.gradient-text {
+  background: linear-gradient(to right, #1e293b, #334155);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
